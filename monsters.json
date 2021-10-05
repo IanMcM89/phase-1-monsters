@@ -6005,6 +6005,18 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Sully",
+      "age": "Unknown",
+      "description": "He was a renowned scarer at Monsters, Inc. where he works alongside his partner and best friend Mike Wazowski. Sulley's world gets turned upside down when he becomes the accidental guardian of a human child (whom he dubs \"Boo\").",
+      "id": 1002
+    },
+    {
+      "name": "Mike Wazowski",
+      "age": "Unknown",
+      "description": "He is a short, lime green spherical monster with one large green eye, two small horns on his head, and thin arms and legs attached to either side of his torso.",
+      "id": 1003
     }
   ]
 }
